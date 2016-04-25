@@ -17,7 +17,7 @@ pkgbase = xfce4-netspeed-plugin-default-route
 	source = http://xfce4-netspeed-plugin.googlecode.com/files/xfce4-netspeed-plugin-0.3.1.tar.gz
 	source = default-route.patch
 	md5sums = b88cacc3ecd53798d76855e35a7a4d79
-	md5sums = 7c9fb6fc30af1613019c5ee1c7ab177d
+	md5sums = 04466c8f600e04975146174a0adb25d2
 
 pkgname = xfce4-netspeed-plugin-default-route
 

@@ -20,7 +20,7 @@ install=$_pkgname.install
 source=("http://$_pkgname.googlecode.com/files/$_pkgname-$pkgver.tar.gz"
         default-route.patch)
 md5sums=('b88cacc3ecd53798d76855e35a7a4d79'
-         '7c9fb6fc30af1613019c5ee1c7ab177d')
+         '04466c8f600e04975146174a0adb25d2')
 
 prepare() {
   cd $_pkgname
