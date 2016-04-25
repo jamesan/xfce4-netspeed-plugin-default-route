@@ -5,7 +5,7 @@
 pkgname=xfce4-netspeed-plugin-default-route
 _pkgname=${pkgname%-default-route}
 pkgver=0.3.1
-pkgrel=2
+pkgrel=3
 pkgdesc="Netspeed plugin for xfce4 panel. Like gnome netspeed applet. Uses default route
 as first choice for automatic selection"
 arch=('i686' 'x86_64')
